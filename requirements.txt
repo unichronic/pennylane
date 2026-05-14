@@ -1,0 +1,7 @@
+pytest>=9
+pydantic>=2
+langchain-core>=0.3
+requests>=2
+agno>=2.5.8
+mistralai>=1
+yfinance>=0.2
